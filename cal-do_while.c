@@ -34,7 +34,7 @@ int main()
 				printf("Result of %d plus %d is : %d\n", i, j, i + j);
 				break;
 			case 4:
-				printf("Result of %d divide by %d is: %.1f\n", i, j, (float) i / (float) j);
+				printf("Result of %d divide by %d is: %.1f\n", i, j, i / (float) j);
 				break;
 			default:
 				printf("Invalid operatior");
