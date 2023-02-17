@@ -1,5 +1,9 @@
 #include <math.h>
 #include <stdio.h>
+
+/*
+This program calculate the population growth
+*/
 int main()
 {
 	int start;
